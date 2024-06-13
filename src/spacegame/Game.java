@@ -167,7 +167,7 @@ public class Game extends Canvas implements Runnable{
 			if(Controller.getEndScore() >= 25000){				
 				g.setFont(new Font("ariel",10,70));
 				g.setColor(new Color(20,colValue,20));
-				g.drawString("You've finished the game", 12,100);
+				g.drawString("You saved the universe!", 12,100);
 			}else{
 				g.setFont(new Font("ariel",10,80));
 				g.setColor(new Color(colValue,20,20));
