@@ -14,5 +14,5 @@ Loot - the rocks that will be destroyed by the spaceship, with some probability,
 Enemies - will show up gradually throughout the game. The enemies look like spacecraft and can move only in the horizontal direction. They can shoot purple shots that can demage the spaceship and turn a rock into evil. To destroy an enemy spacecraft, 5 spaceship yellow shots need to hurt it.
 
 The end of the game comes when the score (which can be seen in the top left corner) reaches 25,000.
-
+d
 Good Luck!
